@@ -5,7 +5,7 @@ This project analyzes crime data from 2020–2024 to identify patterns, trends, 
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights:
 - Peak crime hours during evening (6 PM – 10 PM)
 - Higher crime rates on weekends
 - Top 5 high-risk areas identified
@@ -14,25 +14,25 @@ This project analyzes crime data from 2020–2024 to identify patterns, trends, 
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools Used:
 - Python (Data Cleaning)
 - Power BI (Dashboard & Visualization)
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 - PowerBI_File → Dashboard (.pbix)
 - Dataset → Raw dataset (.csv)
 - Report → Project report (.docx)
 
 ---
 
-## 💡 Learnings
+## 💡 Learnings:
 This project helped me understand how raw data can be transformed into meaningful insights using visualization tools.
 
 ---
 
-## 📌 Future Scope
+## 📌 Future Scope:
 - AI-based crime prediction
 - Real-time dashboard integration
 - Smart surveillance systems
