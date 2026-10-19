@@ -40,3 +40,4 @@ This project helped me understand how raw data can be transformed into meaningfu
 ---
 
 ⭐ If you like this project, feel free to explore and give feedback!
+⭐ If you can star this please do!
